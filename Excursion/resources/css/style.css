@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  color: #ffffff;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.excursion {
+  color: Aquamarine !important;
+  font-size: 16px;
+}
+
+video {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#smallphone {
+  margin-top: 20px;
+}
+
+p footer {
+  color: #808080;
+  font-size: 21px;
+}
+
+footer {
+  text-align: right;
+}
